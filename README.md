@@ -10,7 +10,7 @@ Electron, Ariane NEXT) across 9 subsystems with 20
 documented maintenance records.
 
 ## Live Demo
-**[Open Dashboard](https://your-url.streamlit.app)**
+**[Open Dashboard](https://rlv-maintenance-knowledge-base-vrddr8ajpgobntjjafdluf.streamlit.app/)**
 
 ## Features
 - Searchable, filterable maintenance records database
